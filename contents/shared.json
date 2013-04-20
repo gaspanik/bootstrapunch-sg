@@ -6,6 +6,6 @@
 	"navbar": [
 		{"label": "Home", "href": "./index.html"},
 		{"label": "About", "href": "./about.html"},
-		{"label": "About", "href": "./styleguide/index.html"}		
+		{"label": "Guide", "href": "./styleguide/index.html"}		
 	]
 }
