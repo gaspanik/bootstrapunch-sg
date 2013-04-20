@@ -2,10 +2,10 @@
 	"site-title": "Bootstrapunch! + SG",
 	"section_dummy": "<b>Section:</b> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
 	"aside_dummy": "<b>Aside:</b> Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-	"footer-text": "Built with <a href=\"http://laktek.github.com/punch\">Punch</a> + <a href=\"http://getbootstrap.com/\">Bootstrap</a>",
+	"footer-text": "Built with <a href=\"http://laktek.github.com/punch\">Punch</a> + <a href=\"http://getbootstrap.com/\">Bootstrap</a> + <a href=\"http://kaleistyleguide.com/\">Kalei Style guide</a>.",
 	"navbar": [
 		{"label": "Home", "href": "./index.html"},
 		{"label": "About", "href": "./about.html"},
-		{"label": "Guide", "href": "./styleguide/index.html"}		
+		{"label": "StyleGuide", "href": "./styleguide/"}		
 	]
 }
